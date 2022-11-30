@@ -1,1 +1,11 @@
 
+import java.util.Scanner;
+
+public class gameOfgames {
+    public static void main(String[] args) {
+        Gameofgames test = new Gameofgames ();
+        int choice;
+
+        System.out.println("Welcome to the coin gameOfgames!");
+        
+}
