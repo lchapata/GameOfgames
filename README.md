@@ -1,4 +1,4 @@
-# GameOfgames
+# Game of Games
 This program is collection of 5 games played to determine the one of the entire game of games.
 
 This game was created by: Eduardo, Sarah, Pranick, and Lincoln
